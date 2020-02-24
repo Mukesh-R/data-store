@@ -1,6 +1,16 @@
 # data-store
 Key value pair based data store
 
+### Files
+#### Source file
+  - src/data_source.py
+
+#### Test file
+  - tests/test_data_store.py
+  
+#### UT Dependencies
+  - pytest
+  
 ### Usage
 #### Importing
 ```py
