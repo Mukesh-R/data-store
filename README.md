@@ -11,6 +11,11 @@ Key value pair based data store
 #### UT Dependencies
   - pytest
   
+#### Installing Dependencies
+```sh
+$ pip install -r requirements.txt
+```
+  
 ### Usage
 #### Importing
 ```py
