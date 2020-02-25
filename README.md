@@ -19,11 +19,7 @@ $ pip install -r requirements.txt
 ### Usage
 #### Importing
 ```py
-from data_store import DataStore, Lock
-```
-or
-```py
-from data_store import *
+from data_store import DataStore
 ```
 
 #### Initializing
