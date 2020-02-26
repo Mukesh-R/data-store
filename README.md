@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 ### Usage
 #### Importing
 ```py
-from data_store import DataStore
+from src.data_store import DataStore
 ```
 
 #### Initializing
